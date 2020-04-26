@@ -10,7 +10,7 @@ The project has two main parts:
   • "SOS" that refer to a small OS or non-preemptive scheduler
 
 ## Watch The video to know more about my Oscilloscopee.
-[![Oscilloscope](https://drive.google.com/open?id=1pM88eYPzky2qfbIlj5tIme_ANgS9Gsia)
+(https://drive.google.com/open?id=1pM88eYPzky2qfbIlj5tIme_ANgS9Gsia)
 
 ## Hardware Components:
 Oscilloscope:
