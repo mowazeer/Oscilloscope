@@ -36,3 +36,12 @@ The project has two main parts:
 ## Target:
    * MCAL Layer for atmega32.
    * Just change the MCAL Folder with your own target.
+  
+  
+## Copyright notice 
+
+This software and its content are Copyright © 2020, Mohamed Hamdy Alkrkary. All rights reserved.
+
+Any redistribution or reproduction of part or all of the contents in any form is prohibited.
+You may not, except with our express written permission, distribute or commercially exploit the content. 
+Nor may you transmit it or store it in any other website or other forms of the electronic retrieval system.
