@@ -1,3 +1,12 @@
+This project comes second in "IMT School Online Competition", where 120 contestants presented different ideas in the first stage of the competition, then they chose 23 ideas for implementation in the second stage, then they chose the five best projects in terms of idea and implementation to the final stage.
+Where each contestant submitted his project online to the viewers and the panel of judges:
+-ENG. Ahmed Ashmawi, Head of Embedded Systems Department at ITI.
+-ENG. Medhat Fahmy, Embedded Systems Engineer at Samsung Germany.
+-ENG. Ahmed Emad, Embedded Software Engineer at Valeo Egyp.
+-ENG. Mostafa Ibrahim, Senior Embedded Software Engineer at Valeo Egyp.
+-ENG. Mustafa Badawi, Embedded Software Engineer at Valeo Egypt.
+-ENG. Ahmed Assaf, Embedded Systems Team Leader at Valeo Egypt.
+
 # Oscilloscope 
 The project has two main parts:  
 1- Six Channel Oscilloscope that allows the user to select Time per Division and the used channel, to draws the input signal and calculates: 
