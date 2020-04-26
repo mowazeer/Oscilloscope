@@ -1,4 +1,4 @@
-This project comes second in "IMT School Online Competition", where 120 contestants presented different ideas in the first stage of the competition, then they chose 23 ideas for implementation in the second stage, then they chose the five best projects in terms of idea and implementation to the final stage.
+My project comes second in "IMT School Online Competition", where 120 contestants presented different ideas in the first stage of the competition, then they chose 23 ideas for implementation in the second stage, then they chose the five best projects in terms of idea and implementation to the final stage.
 Where each contestant submitted his project online to the viewers and the panel of judges:
 -ENG. Ahmed Ashmawi, Head of Embedded Systems Department at ITI.
 -ENG. Medhat Fahmy, Embedded Systems Engineer at Samsung Germany.
