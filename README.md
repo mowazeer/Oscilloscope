@@ -6,6 +6,9 @@ Where each contestant submitted his project online to the viewers and the panel 
 -ENG. Mostafa Ibrahim, Senior Embedded Software Engineer at Valeo Egyp.
 -ENG. Mustafa Badawi, Embedded Software Engineer at Valeo Egypt.
 -ENG. Ahmed Assaf, Embedded Systems Team Leader at Valeo Egypt.
+Thanks, IMT School for this competition It is a good experience and added value to all the participants.
+
+# competition Result (https://www.facebook.com/imaketechnologyschool/posts/2326197000817365)
 
 # Oscilloscope 
 The project has two main parts:  
