@@ -13,11 +13,11 @@ The project has two main parts:
 (https://drive.google.com/open?id=1pM88eYPzky2qfbIlj5tIme_ANgS9Gsia)
 
 ## Hardware Components:
-Oscilloscope:
+-Oscilloscope:
      • ATMEGA32
      • LCD_TFT_ili9486
      • Two Potentiometer “10k ohm”
-Signal Generator :
+-Signal Generator:
      • ATMEGA32
      • LED
 
